@@ -16,8 +16,16 @@ The Infrared Sensor consists of individual Infrared Led's and Infrared photodiod
 	<img src="./Assets/IRsensor.jpg" />
 </p>
 
+## Circuit Design
 
+The circuit is set up as following
 
+<p align="center">
+	<img src="./Circuit_design/Circuit.png" />
+</p>
+
+## References
 
 http://www.instructables.com/id/DIY-Line-Follower-Sensor-Array/
+
 https://diyhacking.com/make-line-follower-robot/
