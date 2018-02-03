@@ -18,7 +18,7 @@ The Infrared Sensor consists of individual Infrared Led's and Infrared photodiod
 
 ## Circuit Design
 
-The circuit is set up as following
+The circuit is set up as following. Circuit was designed by [eagle cad](https://www.autodesk.com/products/eagle/overview)
 
 <p align="center">
 	<img src="./Circuit_design/Circuit.png" />
