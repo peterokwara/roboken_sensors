@@ -20,7 +20,7 @@ The Infrared Sensor consists of individual Infrared Led's and Infrared photodiod
 
 The circuit is set up as following. Circuit was designed by [eagle cad](https://www.autodesk.com/products/eagle/overview)
 
-Due to the limited number of pins, two shift regisers are used. One shift register can handle 8 pins.
+Due to the limited number of pins, two shift in regisers are used. One shift register can handle 8 pins. Using a parallel to serial shift register you can collect information from 8 or more switches while only using 3 of the pins on your Arduino.
 
 <p align="center">
 	<img src="./Circuit_design/Circuit.png" />
@@ -40,6 +40,8 @@ Quantitiy of resistors, strip/vero board are double the amount needed in the cir
 | 4.7 Killo ohm resistor | 24 | 3.00 | 72.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
 | 100 Ohm resistor | 12 | 3.00 | 36.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
 | 100 Killo ohm resistor | 12 | 3.00 | 36.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
+| CD4014 8-BIT STATIC SHIFT REGISTER IC | 2 | 80.00 | 160.00 | Nerokas  | https://store.nerokas.co.ke/index.php?route=product/product&product_id=269&search=4014&description=true |
+| 5V 5 PIN SRD DC5v SL C 10A 250V 125V AC 10A 30V 28V DC 5PIN POWER RELAY SONGLE BLUE | 1 | 50.00 | 50.00 | Ktechnics  | https://ktechnics.com/shop/5v-5-pin-power-relay-250vac/ |
 | Total | 944.00 Ksh |
 
 ## References
@@ -48,4 +50,6 @@ http://www.instructables.com/id/DIY-Line-Follower-Sensor-Array/
 
 https://diyhacking.com/make-line-follower-robot/
 
-https://www.arduino.cc/en/Tutorial/ShiftOut
+https://www.arduino.cc/en/Tutorial/ShiftIn
+
+https://www.arduino.cc/en/uploads/Tutorial/TI_CD4021.pdf
