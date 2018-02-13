@@ -20,6 +20,8 @@ The Infrared Sensor consists of individual Infrared Led's and Infrared photodiod
 
 The circuit is set up as following. Circuit was designed by [eagle cad](https://www.autodesk.com/products/eagle/overview)
 
+Due to the limited number of pins, two shift regisers are used. One shift register can handle 8 pins.
+
 <p align="center">
 	<img src="./Circuit_design/Circuit.png" />
 </p>
@@ -45,3 +47,5 @@ Quantitiy of resistors, strip/vero board are double the amount needed in the cir
 http://www.instructables.com/id/DIY-Line-Follower-Sensor-Array/
 
 https://diyhacking.com/make-line-follower-robot/
+
+https://www.arduino.cc/en/Tutorial/ShiftOut
