@@ -32,17 +32,17 @@ Quantitiy of resistors, strip/vero board are double the amount needed in the cir
 
 | Item          | Quantity      | Price (Ksh) | Total Cost | Supplier | Link |
 | ------------- |---------------| ------|------------|----------|------|
-| Infrared Receiver IR Transmitter Pair | 12 | 20.00 | 240.00 | Ktechnics  | https://ktechnics.com/shop/infrared-receiver-transmitter-pair/ |
+| Infrared Receiver IR Transmitter Pair | 24 | 20.00 | 480.00 | Ktechnics  | https://ktechnics.com/shop/infrared-receiver-transmitter-pair/ |
 | HC-SR04 Ultrasonic Sensor | 2 | 200.00 | 400.00 | Ktechnics  | https://ktechnics.com/shop/hc-sr04-ultrasonic-sensor/ |
 | LM358N Low Power Dual Op-Amp IC | 6 | 150.00 | 900.00 | Ktechnics  | https://ktechnics.com/shop/lm358n-low-power-dual-op-amp-ic/ |
 | 8 PIN DIP IC SOCKET | 6 | 10.00 | 60.00 | Ktechnics  | https://ktechnics.com/shop/8-pin-dip-ic-socket/ |
-| Strip/Vero board | 4 | 50.00 | 200.00 | Ktechnics  | https://ktechnics.com/shop/stripvero-board/ |
+| Strip/Vero board | 5 | 50.00 | 250.00 | Ktechnics  | https://ktechnics.com/shop/stripvero-board/ |
 | 4.7 Killo ohm resistor | 24 | 3.00 | 72.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
-| 100 Ohm resistor | 12 | 3.00 | 36.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
-| 100 Killo ohm resistor | 12 | 3.00 | 36.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
+| 100 Ohm resistor | 24 | 3.00 | 72.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
+| 100 Killo ohm resistor | 24 | 3.00 | 72.00 | Ktechnics  | https://ktechnics.com/shop/resistors/ |
 | CD4014 8-BIT STATIC SHIFT REGISTER IC | 2 | 80.00 | 160.00 | Nerokas  | https://store.nerokas.co.ke/index.php?route=product/product&product_id=269&search=4014&description=true |
 | 5V 5 PIN SRD DC5v SL C 10A 250V 125V AC 10A 30V 28V DC 5PIN POWER RELAY SONGLE BLUE | 1 | 50.00 | 50.00 | Ktechnics  | https://ktechnics.com/shop/5v-5-pin-power-relay-250vac/ |
-| Total | 944.00 Ksh |
+| Total | 2,516.00 Ksh |
 
 ## References
 
